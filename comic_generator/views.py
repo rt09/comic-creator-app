@@ -12,8 +12,6 @@ def home(request):
     return render(request, 'home.html')
 
 
-import requests
-
 API_URL = "https://xdwvg9no7pefghrn.us-east-1.aws.endpoints.huggingface.cloud"
 headers = {
 	"Accept": "image/png",
