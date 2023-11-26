@@ -1,1 +1,1 @@
-web: gunicorn mydjangoproject.wsgi --log-file -
+web: gunicorn comic_app.wsgi --log-file -
