@@ -1,1 +1,0 @@
-# comic-creator-app
