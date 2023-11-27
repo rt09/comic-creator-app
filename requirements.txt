@@ -10,4 +10,4 @@ user-agents
 pymysql
 django_otp==1.2.4
 requests
-PIL
+python==3.10
