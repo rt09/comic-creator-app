@@ -11,3 +11,4 @@ pymysql
 django_otp==1.2.4
 requests
 python==3.10
+PIL
